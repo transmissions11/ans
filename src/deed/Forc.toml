@@ -1,9 +1,9 @@
 [project]
-name = "swayy"
+name = "ans"
 author = "t11s"
 entry = "main.sw"
 license = "Apache-2.0"
 
 [dependencies]
-std = { path = "./lib-std" }
-core = { path = "./lib-core" }
+std = { path = "../../lib-std" }
+core = { path = "../../lib-core" }
